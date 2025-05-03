@@ -16,7 +16,7 @@ from torch import Tensor
 from scipy.optimize import linear_sum_assignment
 
 from collections import deque
-from transfer.queue import FIFOQueue, ScoreQueue
+from transform.queue import FIFOQueue, ScoreQueue
 
 
 @MODELS.register_module()
