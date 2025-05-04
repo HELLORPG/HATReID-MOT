@@ -20,4 +20,4 @@ For TAO TETA, we use public detections from [Detic-SwinB](https://github.com/ope
 
 * Note that during MASA training, we do not use any in-domain images. The results are slightly higher than we reported in the paper.
 
-For more details, please refer to the [benchmark_test.md](benchmark_test.md) file.
+For more details, please refer to the [benchmark_test.md](masa_benchmark_test.md) file.

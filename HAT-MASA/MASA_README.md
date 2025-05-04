@@ -109,23 +109,23 @@ Extensive tests on multiple challenging MOT and MOTS benchmarks indicate that th
 * MASA-R50: MASA with ResNet-50 backbone. It is a fast and independent model that do not use the backbone features from other detection or segmentation foundation models. It needs to be used with any other detectors. It is trained in the same way as other masa variants.
 
 ## Model Zoo
-Check out our [model zoo](docs/model_zoo.md) for more detailed benchmark performance for different models.
+Check out our [model zoo](docs/masa_model_zoo.md) for more detailed benchmark performance for different models.
 
 ## Benchmark Testing
-If you want to test our tracker on standard benchmarks, please refer to the [benchmark_test.md](docs/benchmark_test.md).
+If you want to test our tracker on standard benchmarks, please refer to the [benchmark_test.md](docs/masa_benchmark_test.md).
 
 ## Compare with MASA and evaluate TETA metric
 If you want to compare with MASA and evaluate your own tracker's results on TAO TETA benchmark, Open-vocabulary MOT benchmark and BDD100K MOT and MOTS benchmarks. Please refer to the [TETA repo](https://github.com/siyuanliii/TETA) for quick evaluation.
 
 ## Training
-If you want to train the MASA model, please refer to the [train.md](docs/train.md).
+If you want to train the MASA model, please refer to the [train.md](docs/masa_train.md).
 
 ## More results
 
 > See more results on our [project page](https://matchinganything.github.io/)! 
 
 ## Installation
-Please refer to [INSTALL.md](docs/install.md)
+Please refer to [INSTALL.md](docs/masa_install.md)
 
 ## Demo Run
 
