@@ -1,5 +1,8 @@
 # HAT-MASA
 
+## :mag: Overview
+
+**TL; DR.** In this project, we apply our proposed History-Aware Transformation (HAT) to the [MASA](https://github.com/siyuanliii/masa) framework, which is a state-of-the-art zero-shot multiple object tracking (MOT) method. Our method utilizes information from historical trajectories to **transform target features into a more discriminative subspace, enhancing the ability to differentiate between similar targets**. This way, our method has achieved significant improvements across multiple benchmarks.
 
 
 ## :dash: Quick Start
