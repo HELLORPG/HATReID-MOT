@@ -8,8 +8,8 @@ Here, we provide the main experimental results and instructions on how to run th
 <table border="1">
   <tr>
     <th rowspan="2">Methods</th>
-    <th colspan="2">DanceTrack test</th>
-    <th colspan="2">SportsMOT test</th>
+    <th colspan="3">DanceTrack test</th>
+    <th colspan="3">SportsMOT test</th>
     <th colspan="2">TAO val</th>
   </tr>
   <tr>
