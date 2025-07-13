@@ -31,7 +31,7 @@ The overall file tree is shown below:
 ## Download the YOLOX detections
 
 For DanceTrack/SportsMOT, we provide the YOLOX detections as the public detections. 
-You can download them and put them in the `results/public_dets` folder, follow the below structure:
+You can [download](https://github.com/HELLORPG/HATReID-MOT/releases/tag/v0.1) them and put them in the `results/public_dets` folder, following the structure below:
 
 ```text
 └── HAT-MASA [project dir]
