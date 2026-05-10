@@ -3,7 +3,7 @@
 This is the official PyTorch implementation of our paper:
 
 > ***[History-Aware Transformation of ReID Features for Multiple Object Tracking](https://arxiv.org/abs/2503.12562)*** <br>
-> :mortar_board: [Ruopeng Gao](https://ruopenggao.com/), Yuyao Wang, [Chunxu Liu](https://lcxrocks.github.io/), [Limin Wang](https://wanglimin.github.io/) <br>
+> :mortar_board: [Ruopeng Gao](https://ruopenggao.com/), [Yuyao Wang](https://scholar.google.com.hk/citations?hl=zh-CN&user=qti6IlwAAAAJ), [Chunxu Liu](https://lcxrocks.github.io/), [Limin Wang](https://wanglimin.github.io/) <br>
 > :e-mail: Primary contact: ruopenggao@gmail.com
 
 ## :mag: Overview
@@ -11,6 +11,19 @@ This is the official PyTorch implementation of our paper:
 **TL; DR.** We propose a plug-and-play **H**istory-**A**ware **T**ransformation algorithm for appearance features (*i.e.*, ReID features). **Guided by historical information, we seek a more discriminative subspace for target features** in video sequences, enabling **better differentiation between different trajectories**. Our method significantly enhances the reliability of appearance features, improving the performance of ReID-based MOT trackers.
 
 ![overview](./assets/overview.png)
+
+
+
+## :open_file_folder: Sub-Projects
+
+Theoretically, our proposed method can be applied to any multiple object tracker equipped with a ReID or appearance branch. Since different methods are often built on varying codebases, our repository is organized into separate sub-projects to ensure compatibility with different frameworks. Each sub-project should be treated and run independently.
+
+Currently, we provide the following sub-project implementations:
+
+- [HAT-MASA](./HAT-MASA/): [MASA](https://github.com/siyuanliii/masa) is a tracking model based purely on appearance feature matching, which has achieved remarkable performance in zero-shot tracking.
+- [HAT-SORT](./HAT-SORT/): Since nearly all heuristic Multiple Object Tracking (MOT) algorithms adhere to the SORT-like design paradigm, we have selected a set of the most popular codebases as our foundation for implementation and modification.
+
+
 
 ## :pencil2: Citation
 
