@@ -13,6 +13,11 @@ This is the official PyTorch implementation of our paper:
 ![overview](./assets/overview.png)
 
 
+## :fire: News
+
+- <span style="font-variant-numeric: tabular-nums;">**2026.06.18**</span>: Our paper is accepted by ECCV 2026 :tada: :tada: ~
+
+
 
 ## :open_file_folder: Sub-Projects
 
