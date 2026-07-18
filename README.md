@@ -15,7 +15,8 @@ This is the official PyTorch implementation of our paper:
 
 ## :fire: News
 
-- <span style="font-variant-numeric: tabular-nums;">**2026.06.18**</span>: Our paper is accepted by ECCV 2026 :tada: :tada: ~
+- <span stype="font-variant-numeric: tabular-nums;">**2026.07.18**</span>: The updated version of the paper will be posted on arXiv soon, with a ***more comprehensive analysis***. :soon:
+- <span style="font-variant-numeric: tabular-nums;">**2026.06.18**</span>: Our paper is accepted by ***ECCV 2026*** ~ :tada: :tada:
 
 
 
