@@ -15,6 +15,7 @@ This is the official PyTorch implementation of our paper:
 
 ## :fire: News
 
+- <span stype="font-variant-numeric: tabular-nums;">**2026.07.22**</span>: The latest version of our paper is now available on arXiv. It includes ***a more systematic analysis of the relationship between similarity measures and tracking performance, revealing long-standing issues in the ReID space and explaining how our method improves its representations***. :fire:
 - <span stype="font-variant-numeric: tabular-nums;">**2026.07.18**</span>: The updated version of the paper will be posted on arXiv soon, with a ***more comprehensive analysis***. :soon:
 - <span style="font-variant-numeric: tabular-nums;">**2026.06.18**</span>: Our paper is accepted by ***ECCV 2026*** ~ :tada: :tada:
 
